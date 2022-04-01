@@ -12,7 +12,7 @@
   <a href="https://github.com/fdaoliveira/github-readme-stats">
     <img width="420" align="left" alt="Fabrício's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fdaoliveira&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/fdaoliveira/github-readme-stats">
     <img align="left" alt="Fabrício's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdaoliveira&layout=compact&langs_count=6&theme=buefy&hide_border=true" />
   </a>
 </p>
